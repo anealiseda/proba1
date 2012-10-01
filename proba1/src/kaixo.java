@@ -9,3 +9,4 @@ public class kaixo {
 }
 
 //asierrek commit egin du
+//Imanolek ere
