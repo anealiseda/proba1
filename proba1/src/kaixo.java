@@ -1,4 +1,3 @@
-
 public class kaixo {
 	public static void main(String[] args) {
 		System.out.println("kaixo, 2 go commita?");
@@ -8,3 +7,5 @@ public class kaixo {
 	}
 
 }
+
+//asierrek commit egin du
